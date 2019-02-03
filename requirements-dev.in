@@ -1,0 +1,6 @@
+flake8
+jupyter
+nltk
+numpy
+pandas
+scikit-learn
